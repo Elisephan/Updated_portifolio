@@ -13,7 +13,6 @@ Elisephan Ntakirutimana
 - User should have Google chrome browser installed
 - User should have Ubuntu setup and Active terminal installed
 - User should have a Text editor preferrably Visual studio code
--
 
 ## Technologies Used:
 

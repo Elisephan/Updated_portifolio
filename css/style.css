@@ -1,5 +1,5 @@
 .welcome {
-    background-image: url(../images/backgrounds/h_img.jpg);
+    background-image: url(../images/backgrounds/sky.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -14,7 +14,7 @@
 }
 
 #service {
-    background-image: url(../images/backgrounds/s_image.jpg);
+    background-image: url(../images/backgrounds/portfolio2.jpg);
     background-repeat: no-repeat;
     height: 500px;
     color: white;
@@ -40,7 +40,7 @@
     opacity: 0.5;
 }
 .contact {
-    background-image: url(../images/backgrounds/c_image.jpg);
+    background-image: url(../images/backgrounds/contact1.jpeg);
     background-size: cover;
     color: white;
     font-family: 'Righteous', cursive;
